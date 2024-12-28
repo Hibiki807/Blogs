@@ -1,2 +1,13 @@
 # Blogs
-Blog stuffs by Hibiki
+
+<div align="center">
+ 
+**简体中文** | [English](./README_EN.md) | [日本語](/README_JA.md)
+
+</div>
+
+## 2024
+
+| ID  | Blog                                            | Create     | Update     |
+| --- | ----------------------------------------------- | ---------- | ---------- |
+| 1   | [2024 年终总结](./2024/zh-Hans/2024年终总结.md) | 2024-12-18 | 2024-12-28 |
